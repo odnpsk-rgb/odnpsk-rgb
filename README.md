@@ -1,16 +1,49 @@
-## Hi there 👋
+Привет! 
 
-<!--
-**odnpsk-rgb/odnpsk-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Меня зовут Дмитрий
+Backend Engineer | AI & Automation
 
-Here are some ideas to get you started:
+Строю backend-решения, где AI становится рабочим инструментом бизнеса, а не просто экспериментальной функцией. Проектирую интеграции с LLM и внешними сервисами, автоматизирую рутину и создаю поддерживаемую архитектуру.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 Сфера интересов
+AI-агенты и интеграция языковых моделей в бизнес-логику
+
+Telegram-боты и webhook-ориентированные системы
+
+Проектирование бэкенда для SaaS, CRM и автоматизации процессов
+
+Оптимизация бизнес-процессов с помощью AI
+
+🛠 Технологический стек
+Backend
+Python · FastAPI · Flask · REST API · Webhooks
+
+Асинхронность и очереди
+Aiogram 3 · Asyncio · Celery · RQ · фоновые задачи
+
+Базы данных и инфраструктура
+PostgreSQL · Redis · Docker · Linux
+
+AI и смежное
+OpenAI API · Промпт-инжиниринг · Оценка диалогов · Генерация документов (PDF) · Пайплайны Speech-to-Text
+
+🚀 Избранные проекты
+🔹 PlanExpert — Веб-приложение для проверки строительных чертежей (РФ, стадии П и Р): обнаружение объектов (YOLO11), OCR (PaddleOCR/EasyOCR), калибровка масштаба, классификация страниц, роутер по разделам, верификация и нормоконтроль через LLM, генерация отчёта DOCX.
+Стек: Python, FastAPI, React, TypeScript, YOLO11, PaddleOCR, EasyOCR, OpenAI API, python-docx, Docker, Poppler.
+
+🔹 Мультимодальный Telegram-бот с RAG — Полнофункциональный ассистент для работы с базой знаний о металлопрокате: текстовые запросы (GPT-4o), голосовые сообщения (Whisper + TTS), анализ изображений (GPT-4 Vision), генерация изображений (DALL-E 3), RAG на базе документов с векторным поиском (ChromaDB), кэширование запросов, поддержка ProxyAPI для работы из России. Включает консольный RAG-клиент с оценкой качества через RAGAS.
+Стек: Python, Aiogram, OpenAI API (GPT-4o, Whisper, TTS, Vision, DALL-E 3), LangChain, ChromaDB, SQLite, RAGAS, FFmpeg, pytest, Docker.
+
+🧠 Принципы разработки
+Чистая архитектура – слои, зависимости наружу, тестируемость
+
+Separation of Concerns – каждый модуль отвечает за своё
+
+Асинхронность по умолчанию – не блокируем I/O
+
+Минимум технического долга – рефакторинг как часть процесса
+
+Продуктовое мышление – код должен приносить бизнес-ценность
+
+Я не просто пишу код, я проектирую систему, которую не стыдно поддерживать и масштабировать.
+
